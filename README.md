@@ -2,7 +2,7 @@
 
 My theme for the SLiM Login Manager (https://sourceforge.net/projects/slim-fork/)
 
-Author: Johannes Findeisen <you@hanez.org>
+Author: Johannes Findeisen <you@hanez.org> - 2020
 
 Copyright: Creative Commons Legal Code - Attribution-ShareAlike 3.0 (See LICENSE)
 
