@@ -3,7 +3,7 @@
 My theme for the SLiM Login Manager (https://sourceforge.net/projects/slim-fork/)
 
 Author: Johannes Findeisen <you@hanez.org>
-Original Author: Thayer Williams <thayerw@gmail.com> 
+
 Copyright: Creative Commons Legal Code - Attribution-ShareAlike 3.0 (See LICENSE)
 
 # Installation
